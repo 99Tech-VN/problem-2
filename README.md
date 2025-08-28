@@ -1,9 +1,6 @@
-# problem-2
-Fancy Form
-
 # 💱 Crypto Currency Swap UI
 
-A simple React + TypeScript + TailwindCSS app that simulates a **crypto swap interface**.  
+A simple Vite + React + TS app that simulates a **crypto swap interface**.  
 Pick two tokens, enter an amount, and instantly see the converted value.
 
 ## ✨ Features
@@ -14,7 +11,7 @@ Pick two tokens, enter an amount, and instantly see the converted value.
 - Loading state when swapping
 
 ## 🛠️ Tech Stack
-- React + TypeScript
+- Vite + React + TypeScript
 - TailwindCSS
 - Custom Components:  
   - `CurrencySwapForm` — main UI  
